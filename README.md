@@ -3,7 +3,7 @@
 [![Go Report Card](https://goreportcard.com/badge/github.com/gitbitex/gitbitex-spot)](https://goreportcard.com/report/github.com/gitbitex/gitbitex-spot)
 
 GitBitEx is an open source cryptocurrency exchange.
-
+//testing//
 ## Architecture
 <p align="center"><img width="100%" src="https://oooooo.oss-cn-hangzhou.aliyuncs.com/gitbitex.png?v=1" /></p>
 
